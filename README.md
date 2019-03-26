@@ -1,4 +1,4 @@
-# Predict Sale Price for Heavy Equipment using Random Forest Bulldozers &middot;
+# Predict Sale Price for Heavy Equipment using Random Forest &middot;
 > The program follows a similar structure as one demonstrated in fastai courses
 > Objective : Predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers.
 
